@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "613-606-6662",
+    "email": "sydney.kiersten@gmail.com",
+    "website": "https://sydneyhass.com",
+    "location": "Ottawa, Canada"
   },
   "skills": [
     {
@@ -61,11 +61,11 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Javascript",
+          "name": "Java",
           "percent": 96
         },
         {
-          "name": "Java",
+          "name": "JavaScript",
           "percent": 82
         },
         {
@@ -98,61 +98,16 @@
           "name": "React"
         },
         {
-          "name": "Flutter"
-        },
-        {
-          "name": "React Native"
-        },
-        {
-          "name": "Vue"
+          "name": "Gatsby"
         },
         {
           "name": "Spring"
         },
         {
-          "name": "Angular"
-        },
-        {
-          "name": "Electron"
-        },
-        {
           "name": "Node"
         },
         {
-          "name": "Flusk"
-        },
-        {
           "name": "Express"
-        },
-        {
-          "name": "Koa"
-        },
-        {
-          "name": "Gatsby"
-        },
-        {
-          "name": "Apollo"
-        },
-        {
-          "name": "Django"
-        },
-        {
-          "name": "Loopback"
-        },
-        {
-          "name": "Next"
-        },
-        {
-          "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
-        },
-        {
-          "name": "Phaser"
-        },
-        {
-          "name": "Feathers"
         }
       ]
     },
@@ -167,13 +122,7 @@
           "name": "Jira"
         },
         {
-          "name": "Unity"
-        },
-        {
-          "name": "Godot"
-        },
-        {
-          "name": "Google Analytics"
+          "name": "GitHub"
         }
       ]
     },
@@ -188,13 +137,10 @@
           "name": "Mongodb"
         },
         {
-          "name": "Parse"
+          "name": "Oracle"
         },
         {
           "name": "Firebase"
-        },
-        {
-          "name": "Elastic Search"
         }
       ]
     }
@@ -202,97 +148,47 @@
   "summary": "Highly focused technologist with a multidisciplinary skill set honed over 15+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 15+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
-    },
-    {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Algonquin College - Ottawa, Canada",
+      "degree": "Computer Engineering Technology - Computing Science",
+      "start": "2017",
+      "end": "2020"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
+      "role": "Developer",
+      "company": "Bank of Canada",
+      "description": "Working to maintain and develop a mission critical Java Spring web application",
+      "start": "09/2021",
       "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "QA Systems Analyst",
+      "company": "Bank of Canada",
+      "description": "Used Java + Selenium to perform automated testing to ensure the integrity of a mission critical application.",
+      "start": "02/2020",
+      "end": "09/2021"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "IT Systems Development - Student",
+      "company": "Bank of Canada",
+      "description": "Responsible for supporting a variety of Commerical-off-the-shelf (COTS) applcations, such as Jira, Confluence, and ServiceNow. ",
+      "start": "05/2019",
+      "end": "02/2020"
     }
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
-    },
-    {
-      "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
+      "url": "https://ca.linkedin.com/in/sydney-hass-748a86198"
     },
     {
       "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://angel.co/u/sydney-h"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
-    },
-    {
-      "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
-    },
-    {
-      "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://github.com/sydneyhass"
     }
   ],
   "role": "Technologist",
@@ -304,5 +200,5 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Sydney Hass"
 }
