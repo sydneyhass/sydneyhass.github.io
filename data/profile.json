@@ -144,21 +144,21 @@
     {
       "role": "Developer",
       "company": "Bank of Canada",
-      "description": "Working to maintain and develop a mission critical Java Spring web application",
+      "description": "Working to maintain and develop a mission critical Java Spring web application. Added new features for handling business transactions using test-driven development practices. Developed a process for sharing information between experienced developers and new hires.",
       "start": "09/2021",
       "end": ""
     },
     {
       "role": "QA Systems Analyst",
       "company": "Bank of Canada",
-      "description": "Used Java + Selenium to perform automated testing to ensure the integrity of a mission critical application.",
+      "description": "Used Java and Selenium to perform automated testing to ensure the integrity of a mission critical application. Created a wiki for storing information about tools, processes, and recurrent test plans. Developed a tool for integrating manual test cases into our existing automated report generator and improved the recording of automated test cases.",
       "start": "02/2020",
       "end": "09/2021"
     },
     {
       "role": "IT Systems Development - Student",
       "company": "Bank of Canada",
-      "description": "Responsible for supporting a variety of Commerical-off-the-shelf (COTS) applcations, such as Jira, Confluence, and ServiceNow. ",
+      "description": "Responsible for supporting a variety of Commerical-off-the-shelf (COTS) applcations, such as Jira, Confluence, and ServiceNow. Implemented custom workflows in Jira and ServiceNow. Simplified an existing process for requesting new software within the Bank of Canada.",
       "start": "05/2019",
       "end": "02/2020"
     }
