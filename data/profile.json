@@ -180,10 +180,22 @@
   "role": "Software Developer",
   "projects": [
     {
-      "name": "Gatsby resume starter",
-      "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
+      "name": "Resume",
+      "company": "Personal Project",
+      "description": "Single page website I made based off an existing gatsby starter template which is deployed and hosted with Netlify",
       "link": "https://github.com/sydneyhass/sydneyhass.github.io"
+    },
+    {
+      "name": "Rental Application",
+      "company": "School Project",
+      "description": "ANSI-C command line application that mimics \"Tinder\"-style functionality. Generates a set of random properties with accompanying data and allows users to swipe left or right. Maintains two linked lists which contain the available properties and the favourited properties.",
+      "link": "https://github.com/sydneyhass/RentalApplication"
+    },
+    {
+      "name": "Compiler",
+      "company": "School Project",
+      "description": "ANSI-C compiler built to parse a fictional programming language - Platypus. Completed as part of a compilers course in school which involved building a finite state machine and eliminating left recursion of a specified grammar.",
+      "link": "https://github.com/sydneyhass/Compiler"
     }
   ],
   "fullname": "Sydney Hass"
