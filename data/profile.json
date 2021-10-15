@@ -1,8 +1,8 @@
 {
   "contact": {
     "phone": "613-606-6662",
-    "email": "sydney.kiersten@gmail.com",
-    "website": "https://sydneyhass.com",
+    "email": "sydney.kiersten",
+    "website": "sydneyhass",
     "location": "Ottawa, Canada"
   },
   "skills": [
@@ -15,7 +15,7 @@
           "percent": 95
         },
         {
-          "name": "Project Management",
+          "name": "Technical Writing",
           "percent": 92
         },
         {

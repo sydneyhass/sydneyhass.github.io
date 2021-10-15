@@ -9,7 +9,11 @@ const Contact = ({ field, value }) => (
     {field === 'email' && (
       <>
         <MailIcon className="contact-icon" />
-        <a className="contact-link" href={`mailto:${value}`} title="email">
+        <a
+          className="contact-link"
+          href={`mailto:${value}@gmail.com`}
+          title="email"
+        >
           {value}
         </a>
       </>
@@ -28,11 +32,11 @@ const Contact = ({ field, value }) => (
         <a
           className="contact-link"
           target="_blank"
-          href={value}
+          href={`https://${value}.com`}
           rel="noopener noreferrer"
           title="website"
         >
-          Personal Site
+          {value}
         </a>
       </>
     )}
