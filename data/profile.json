@@ -191,13 +191,13 @@
       "url": "https://github.com/sydneyhass"
     }
   ],
-  "role": "Technologist",
+  "role": "Software Developer",
   "projects": [
     {
       "name": "Gatsby resume starter",
       "company": "Open source",
       "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "link": "https://github.com/sydneyhass/sydneyhass.github.io"
     }
   ],
   "fullname": "Sydney Hass"
