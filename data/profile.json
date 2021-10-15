@@ -19,11 +19,11 @@
           "percent": 92
         },
         {
-          "name": "Game Development",
+          "name": "Agile Development",
           "percent": 70
         },
         {
-          "name": "Blockchain",
+          "name": "Unix",
           "percent": 85
         },
         {
@@ -39,12 +39,8 @@
           "percent": 65
         },
         {
-          "name": "Artificial Intelligence",
-          "percent": 70
-        },
-        {
           "name": "UX",
-          "percent": 80
+          "percent": 60
         }
       ]
     },
@@ -67,6 +63,10 @@
         {
           "name": "C#",
           "percent": 74
+        },
+        {
+          "name": "Bash",
+          "percent": 60
         }
       ]
     },
@@ -100,6 +100,15 @@
         },
         {
           "name": "GitHub"
+        },
+        {
+          "name": "Slack"
+        },
+        {
+          "name": "Jenkins"
+        },
+        {
+          "name": "JMeter"
         }
       ]
     },
